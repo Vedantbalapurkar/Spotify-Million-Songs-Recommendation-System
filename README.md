@@ -3,7 +3,7 @@ This is the Dataset for the Spotify Million Playlist.
 
 Dataset Link: https://drive.google.com/file/d/1KiJ9-CCjpRJJWq1UmoDfr9-5giO_j2vk/view?usp=sharing
 
-Hosted Model: https://vedantbalapurkar-spotify-million-songs-playlist-rec-main-559eq0.streamlitapp.com/
+Hosted Model: https://vedantbalapurkar-spotify-million-songs-recommendati-main-i82kn2.streamlitapp.com/
 
 This challenge set contains 10,000 incomplete playlists. The challenge is to recommend tracks for each of these playlists.
 
