@@ -48,7 +48,7 @@ class Spotify_Recommendation():
         columns = ['artist_name', 'track_name', 'album_name']
         return rec[columns][:amount]
 
-st.image('spotify1.png')
+st.image('spotify.png')
 
 #path = r'C:\Users\hp\Downloads\Spotify_datasets\final df.csv'
 df = pd.read_csv('final df.csv')
